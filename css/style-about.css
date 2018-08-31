@@ -28,6 +28,6 @@ body {
 }
 div {
     padding: 15px;
-     background-image: linear-gradient(to right, blue , white);
+     background-image: linear-gradient(to right, pink , yellow);
      background-clip: padding-box;
 }
