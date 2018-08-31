@@ -1,33 +1,24 @@
 
 html{
-  font-size: 20;
-  font-family: Times new roman;
+  font-size: 25;
+  font-family: sans-serif;
 }
 
-
-h1 {
-  color: blue;
-}
-h2 {
-  color: purple;
-}
-h3{
-  color: red;
-}
-h4{
-  color: blue;
-}
-h5{
-  color: red;
-}
-h6{
-  color: blue;
-}
 body {
-    border: 9px dotted yellow;
+    border: 9px dotted blue;
 }
 div {
     padding: 15px;
      background-image: linear-gradient(to right, pink , yellow);
      background-clip: padding-box;
+}
+title_font {
+    font-size: 70px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    text-decoration: underline;
+    color: blue;
+}
+p {
+  color: red:
 }
